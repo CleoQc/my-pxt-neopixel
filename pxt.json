@@ -1,5 +1,5 @@
 {
-    "name": fr_neopixel",
+    "name": "fr_neopixel",
     "version": "0.6.7",
     "description": "AdaFruit NeoPixel driver translated to French",
     "license": "MIT",
@@ -12,8 +12,8 @@
         "neopixel.ts",
         "_locales/ja/neopixel-strings.json",
         "_locales/de/neopixel-strings.json",
-        "_locales/de/neopixel-jsdoc-strings.json",
         "_locales/fr/neopixel-strings.json",
+        "_locales/de/neopixel-jsdoc-strings.json",
         "_locales/fr/neopixel-jsdoc-strings.json"
     ],
     "testFiles": [
