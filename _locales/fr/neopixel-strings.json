@@ -17,7 +17,7 @@
   "neopixel.Strip.clear|block": "%strip|ausschalten",
   "neopixel.Strip.easeBrightness|block": "%strip|abdunkeln",
   "neopixel.Strip.length|block": "%strip|Länge",
-  "neopixel.Strip.range|block": "%strip|interval partant de %start|avec %length| NeoPixels",
+  "neopixel.Strip.range|block": "bande %strip|partant de %start|avec %length| NeoPixels",
   "neopixel.Strip.rotate|block": "%strip|rotiere NeoPixel um %offset",
   "neopixel.Strip.setBrightness|block": "%strip|setze Helligkeit %brightness",
   "neopixel.Strip.setPixelColor|block": "%strip|setze Farbe von NeoPixel %pixeloffset|auf %rgb=neopixel_colors",
